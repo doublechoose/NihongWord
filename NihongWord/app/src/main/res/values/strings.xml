@@ -6,5 +6,16 @@
 
     <string name="action_settings">Settings</string>
     <string name="setting_text_color_label">Setting Text color</string>
-    
+    <string name="drawer_1">First</string>
+    <string name="drawer_2">Second</string>
+    <string name="drawer_3">Third</string>
+    <string name="drawer_4">Fourth</string>
+    <string name="drawer_5">Fifth</string>
+    <string name="drawer_6">Sixth</string>
+    <string name="drawer_7">Seventh</string>
+    <string name="drawer_8">Eighth</string>
+    <string name="drawer_9">Ninth</string>
+    <string name="drawer_10">Tenth</string>
+    <string name="drawer_11">Eleventh</string>
+
 </resources>

@@ -5,47 +5,47 @@
         <item
             android:id="@+id/nav_class_1"
             android:icon="@drawable/ic_menu_a"
-            android:title="First"/>
+            android:title="@string/drawer_1"/>
         <item
             android:id="@+id/nav_class_2"
             android:icon="@drawable/ic_menu_a"
-            android:title="Second"/>
+            android:title="@string/drawer_2"/>
         <item
             android:id="@+id/nav_class_3"
             android:icon="@drawable/ic_menu_a"
-            android:title="Third"/>
+            android:title="@string/drawer_3"/>
         <item
             android:id="@+id/nav_class_4"
             android:icon="@drawable/ic_menu_a"
-            android:title="Fourth"/>
+            android:title="@string/drawer_4"/>
         <item
             android:id="@+id/nav_class_5"
             android:icon="@drawable/ic_menu_a"
-            android:title="Fifth"/>
+            android:title="@string/drawer_5"/>
         <item
             android:id="@+id/nav_class_6"
             android:icon="@drawable/ic_menu_a"
-            android:title="Sixth"/>
+            android:title="@string/drawer_6"/>
         <item
             android:id="@+id/nav_class_7"
             android:icon="@drawable/ic_menu_a"
-            android:title="Seventh"/>
+            android:title="@string/drawer_7"/>
         <item
             android:id="@+id/nav_class_8"
             android:icon="@drawable/ic_menu_a"
-            android:title="Eighth"/>
+            android:title="@string/drawer_8"/>
         <item
             android:id="@+id/nav_class_9"
             android:icon="@drawable/ic_menu_a"
-            android:title="Ninth"/>
+            android:title="@string/drawer_9"/>
         <item
             android:id="@+id/nav_class_10"
             android:icon="@drawable/ic_menu_a"
-            android:title="Tenth"/>
+            android:title="@string/drawer_10"/>
         <item
             android:id="@+id/nav_class_11"
             android:icon="@drawable/ic_menu_a"
-            android:title="Eleventh"/>
+            android:title="@string/drawer_11"/>
         <!--<item-->
             <!--android:id="@+id/nav_class_12"-->
             <!--android:icon="@drawable/ic_menu_manage"-->
